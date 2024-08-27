@@ -1,0 +1,14 @@
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\bin\Debug\net8.0\PS02_6.exe
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\bin\Debug\net8.0\PS02_6.deps.json
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\bin\Debug\net8.0\PS02_6.runtimeconfig.json
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\bin\Debug\net8.0\PS02_6.dll
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\bin\Debug\net8.0\PS02_6.pdb
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.AssemblyInfoInputs.cache
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.AssemblyInfo.cs
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.csproj.CoreCompileInputs.cache
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.dll
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\refint\PS02_6.dll
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.pdb
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\PS02_6.genruntimeconfig.cache
+C:\Users\User\PS02MALATE-ADDITIONAL\PS02_6\PS02_6\obj\Debug\net8.0\ref\PS02_6.dll
